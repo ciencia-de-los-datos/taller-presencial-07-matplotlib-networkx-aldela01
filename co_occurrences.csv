@@ -1,0 +1,440 @@
+,node_a,node_b,size
+0,Algeria,France,1
+1,Algeria,United States,1
+2,Argentina,Italy,3
+3,Armenia,Italy,1
+4,Australia,Canada,2
+5,Australia,China,13
+6,Australia,Finland,1
+7,Australia,France,1
+8,Australia,Germany,3
+9,Australia,Greece,1
+10,Australia,Iran,1
+11,Australia,Italy,1
+12,Australia,Japan,1
+13,Australia,Netherlands,3
+14,Australia,Russian Federation,1
+15,Australia,Sweden,1
+16,Australia,Switzerland,2
+17,Australia,Taiwan,2
+18,Australia,United Kingdom,8
+19,Australia,United States,19
+20,Austria,France,1
+21,Austria,Germany,1
+22,Austria,India,1
+23,Austria,Italy,2
+24,Austria,United Kingdom,1
+25,Austria,United States,3
+26,Bangladesh,Canada,1
+27,Bangladesh,India,1
+28,Bangladesh,Sweden,1
+29,Belgium,China,2
+30,Belgium,Finland,1
+31,Belgium,France,2
+32,Belgium,Germany,1
+33,Belgium,Hong Kong,1
+34,Belgium,Netherlands,1
+35,Belgium,Russian Federation,1
+36,Belgium,Sweden,1
+37,Belgium,United Kingdom,5
+38,Belgium,United States,5
+39,Brazil,Canada,1
+40,Brazil,Germany,2
+41,Brazil,United Kingdom,2
+42,Brazil,United States,2
+43,Bulgaria,China,1
+44,Bulgaria,United States,1
+45,CAS,China,1
+46,Canada,Australia,2
+47,Canada,China,6
+48,Canada,France,3
+49,Canada,Germany,1
+50,Canada,Hong Kong,1
+51,Canada,India,2
+52,Canada,Italy,1
+53,Canada,Japan,6
+54,Canada,Netherlands,2
+55,Canada,Russian Federation,1
+56,Canada,Sweden,1
+57,Canada,Taiwan,1
+58,Canada,United Kingdom,3
+59,Canada,United States,15
+60,Chile,Germany,2
+61,Chile,Italy,2
+62,Chile,Switzerland,2
+63,Chile,United States,2
+64,China,Australia,13
+65,China,Canada,6
+66,China,Finland,1
+67,China,France,4
+68,China,Germany,3
+69,China,Hong Kong,14
+70,China,India,2
+71,China,Japan,6
+72,China,Netherlands,1
+73,China,Russian Federation,2
+74,China,Sweden,2
+75,China,Switzerland,1
+76,China,Taiwan,1
+77,China,United Kingdom,13
+78,China,United States,47
+79,Colombia,Spain,1
+80,Costa Rica,Russian Federation,1
+81,Costa Rica,United Kingdom,1
+82,Cyprus,United Kingdom,1
+83,Czech Republic,Italy,1
+84,Czech Republic,Japan,1
+85,Czech Republic,United Kingdom,1
+86,Denmark,China,2
+87,Denmark,Finland,1
+88,Denmark,France,3
+89,Denmark,Germany,1
+90,Denmark,Spain,2
+91,Denmark,United Kingdom,2
+92,Denmark,United States,4
+93,Department of Information Management,Taiwan,1
+94,Ecuador,Italy,1
+95,Ecuador,Spain,1
+96,Egypt,Australia,2
+97,Egypt,Sweden,1
+98,Ethiopia,India,2
+99,Finland,Australia,1
+100,Finland,China,1
+101,Finland,Germany,3
+102,Finland,Italy,1
+103,Finland,Netherlands,1
+104,Finland,Russian Federation,1
+105,Finland,Sweden,1
+106,Finland,United Kingdom,5
+107,Finland,United States,2
+108,France,Australia,1
+109,France,Canada,3
+110,France,China,4
+111,France,Germany,5
+112,France,Greece,1
+113,France,India,1
+114,France,Italy,11
+115,France,Japan,1
+116,France,Netherlands,2
+117,France,Russian Federation,2
+118,France,Spain,6
+119,France,Switzerland,2
+120,France,United Kingdom,8
+121,France,United States,8
+122,Germany,Australia,3
+123,Germany,Canada,1
+124,Germany,China,3
+125,Germany,Finland,3
+126,Germany,France,5
+127,Germany,Greece,1
+128,Germany,India,2
+129,Germany,Italy,5
+130,Germany,Japan,1
+131,Germany,Netherlands,1
+132,Germany,Russian Federation,3
+133,Germany,Spain,4
+134,Germany,Sweden,3
+135,Germany,Switzerland,3
+136,Germany,United Kingdom,12
+137,Germany,United States,16
+138,Gradute Univ. of CAS,China,1
+139,Greece,Australia,1
+140,Greece,France,1
+141,Greece,Germany,1
+142,Greece,Italy,1
+143,Greece,Spain,1
+144,Greece,Sweden,2
+145,Greece,Switzerland,1
+146,Greece,United Kingdom,2
+147,Greece,United States,2
+148,Hong Kong,Canada,1
+149,Hong Kong,China,14
+150,Hong Kong,Switzerland,1
+151,Hong Kong,Taiwan,1
+152,Hong Kong,United States,5
+153,Hungary,China,1
+154,Hungary,Finland,4
+155,Hungary,France,1
+156,Hungary,Italy,1
+157,Hungary,Japan,1
+158,Hungary,United Kingdom,2
+159,Hungary,United States,4
+160,India,Canada,2
+161,India,China,2
+162,India,France,1
+163,India,Germany,2
+164,India,Italy,1
+165,India,Japan,2
+166,India,Russian Federation,2
+167,India,Sweden,2
+168,India,United Kingdom,1
+169,India,United States,4
+170,Indonesia,Australia,1
+171,Indonesia,Russian Federation,1
+172,Indonesia,United Kingdom,1
+173,Indonesia,United States,1
+174,Iran,Australia,1
+175,Iran,Italy,1
+176,Ireland,Australia,1
+177,Ireland,France,1
+178,Ireland,Spain,1
+179,Ireland,United States,1
+180,Israel,Australia,1
+181,Israel,United Kingdom,1
+182,Israel,United States,6
+183,Italy,Australia,1
+184,Italy,Canada,1
+185,Italy,Finland,1
+186,Italy,France,11
+187,Italy,Germany,5
+188,Italy,Greece,1
+189,Italy,India,1
+190,Italy,Iran,1
+191,Italy,Japan,1
+192,Italy,Netherlands,2
+193,Italy,Russian Federation,2
+194,Italy,Spain,4
+195,Italy,Switzerland,1
+196,Italy,United Kingdom,12
+197,Italy,United States,16
+198,Japan,Australia,1
+199,Japan,Canada,6
+200,Japan,China,6
+201,Japan,France,1
+202,Japan,Germany,1
+203,Japan,India,2
+204,Japan,Italy,1
+205,Japan,Russian Federation,1
+206,Japan,Spain,2
+207,Japan,Switzerland,1
+208,Japan,Taiwan,1
+209,Japan,United Kingdom,4
+210,Japan,United States,11
+211,Jordan,Australia,1
+212,Jordan,Canada,1
+213,Jordan,United Kingdom,2
+214,Jordan,United States,1
+215,Kenya,France,1
+216,Kenya,Italy,1
+217,Kenya,United Kingdom,1
+218,Lebanon,Canada,1
+219,Lebanon,United Kingdom,1
+220,Lebanon,United States,1
+221,Libyan Arab Jamahiriya,United Kingdom,1
+222,Luxembourg,Netherlands,1
+223,Malaysia,Australia,1
+224,Malaysia,India,1
+225,Malaysia,Iran,1
+226,Malaysia,Spain,1
+227,Malaysia,United States,2
+228,Mauritius,United States,1
+229,Melmaruvathur,India,1
+230,Mexico,Finland,1
+231,Mexico,France,1
+232,Mexico,Russian Federation,1
+233,Mexico,Spain,2
+234,Mexico,United States,1
+235,Morocco,China,1
+236,Morocco,France,2
+237,Morocco,Hong Kong,1
+238,Morocco,United States,1
+239,Mozambique,Russian Federation,1
+240,Mozambique,United Kingdom,1
+241,Namibia,Switzerland,1
+242,Nepal,China,1
+243,Nepal,United Kingdom,1
+244,Nepal,United States,1
+245,Netherlands,Australia,3
+246,Netherlands,Canada,2
+247,Netherlands,China,1
+248,Netherlands,Finland,1
+249,Netherlands,France,2
+250,Netherlands,Germany,1
+251,Netherlands,Italy,2
+252,Netherlands,Russian Federation,1
+253,Netherlands,Spain,1
+254,Netherlands,United Kingdom,4
+255,Netherlands,United States,7
+256,New Zealand,Australia,3
+257,New Zealand,Canada,1
+258,New Zealand,United Kingdom,2
+259,New Zealand,United States,1
+260,Nigeria,Spain,1
+261,Nigeria,United Kingdom,1
+262,Nigeria,United States,1
+263,Norway,Australia,1
+264,Norway,Canada,1
+265,Norway,China,1
+266,Norway,Finland,2
+267,Norway,France,1
+268,Norway,Germany,4
+269,Norway,Greece,1
+270,Norway,Netherlands,2
+271,Norway,Sweden,1
+272,Norway,United Kingdom,3
+273,Norway,United States,4
+274,Open Culture International Association,United States,1
+275,Pakistan,Canada,1
+276,Pakistan,China,1
+277,Pakistan,Italy,1
+278,Pakistan,United Kingdom,1
+279,Pakistan,United States,1
+280,Palestine,Australia,1
+281,Palestine,China,1
+282,Palestine,France,1
+283,Palestine,Germany,1
+284,Palestine,Switzerland,1
+285,Peking University,China,1
+286,Philippines,Japan,1
+287,Philippines,Switzerland,1
+288,Philippines,United Kingdom,1
+289,Philippines,United States,2
+290,Poland,United Kingdom,1
+291,Poland,United States,1
+292,Portugal,Canada,1
+293,Portugal,France,3
+294,Portugal,Italy,1
+295,Portugal,Spain,2
+296,Portugal,Sweden,1
+297,Portugal,United Kingdom,1
+298,Portugal,United States,1
+299,Qatar,Finland,2
+300,Qatar,Germany,1
+301,Qatar,Spain,1
+302,Qatar,Switzerland,1
+303,Qatar,United Kingdom,3
+304,Qatar,United States,2
+305,RTL – RTL,Netherlands,1
+306,Romania,France,1
+307,Russian Federation,Australia,1
+308,Russian Federation,Canada,1
+309,Russian Federation,China,2
+310,Russian Federation,Finland,1
+311,Russian Federation,France,2
+312,Russian Federation,Germany,3
+313,Russian Federation,India,2
+314,Russian Federation,Italy,2
+315,Russian Federation,Japan,1
+316,Russian Federation,Netherlands,1
+317,Russian Federation,United Kingdom,3
+318,Russian Federation,United States,4
+319,Saudi Arabia,Australia,1
+320,Saudi Arabia,Canada,1
+321,Saudi Arabia,Germany,1
+322,Saudi Arabia,United Kingdom,2
+323,Serbia,United Kingdom,1
+324,Singapore,Australia,2
+325,Singapore,China,4
+326,Singapore,France,2
+327,Singapore,Germany,1
+328,Singapore,India,1
+329,Singapore,Italy,1
+330,Singapore,Netherlands,2
+331,Singapore,Switzerland,1
+332,Singapore,United States,1
+333,South Africa,France,2
+334,South Africa,Germany,1
+335,South Africa,United States,2
+336,South Korea,Germany,2
+337,South Korea,Spain,1
+338,South Korea,Sweden,1
+339,South Korea,United Kingdom,2
+340,South Korea,United States,7
+341,Spain,France,6
+342,Spain,Germany,4
+343,Spain,Greece,1
+344,Spain,Italy,4
+345,Spain,Japan,2
+346,Spain,Netherlands,1
+347,Spain,Switzerland,2
+348,Spain,United Kingdom,7
+349,Spain,United States,9
+350,Sudan,United States,1
+351,Sweden,Australia,1
+352,Sweden,Canada,1
+353,Sweden,China,2
+354,Sweden,Finland,1
+355,Sweden,Germany,3
+356,Sweden,Greece,2
+357,Sweden,India,2
+358,Sweden,Taiwan,1
+359,Sweden,United Kingdom,2
+360,Sweden,United States,4
+361,Switzerland,Australia,2
+362,Switzerland,China,1
+363,Switzerland,France,2
+364,Switzerland,Germany,3
+365,Switzerland,Greece,1
+366,Switzerland,Hong Kong,1
+367,Switzerland,Italy,1
+368,Switzerland,Japan,1
+369,Switzerland,Spain,2
+370,Switzerland,United Kingdom,5
+371,Switzerland,United States,6
+372,Syrian Arab Republic,United States,1
+373,Taiwan,Australia,2
+374,Taiwan,Canada,1
+375,Taiwan,China,1
+376,Taiwan,Hong Kong,1
+377,Taiwan,Japan,1
+378,Taiwan,Sweden,1
+379,Taiwan,United States,1
+380,Tamil Nadu,India,1
+381,Tamil Nadu  630 561,India,1
+382,Thailand,Canada,2
+383,Thailand,France,1
+384,Thailand,United States,2
+385,Thinghua University,China,1
+386,Think3 Inc.,Canada,1
+387,Think3 Inc.,Italy,1
+388,Tunisia,Canada,1
+389,Tunisia,United States,1
+390,Turkey,Canada,1
+391,Turkey,Italy,1
+392,Turkey,United Kingdom,2
+393,Turkey,United States,5
+394,Ukraine,France,1
+395,Ukraine,Netherlands,1
+396,Ukraine,Russian Federation,1
+397,United Arab Emirates,Australia,1
+398,United Arab Emirates,Canada,1
+399,United Arab Emirates,Greece,1
+400,United Arab Emirates,Russian Federation,1
+401,United Arab Emirates,United Kingdom,3
+402,United Arab Emirates,United States,3
+403,United Kingdom,Australia,8
+404,United Kingdom,Canada,3
+405,United Kingdom,China,13
+406,United Kingdom,Finland,5
+407,United Kingdom,France,8
+408,United Kingdom,Germany,12
+409,United Kingdom,Greece,2
+410,United Kingdom,India,1
+411,United Kingdom,Italy,12
+412,United Kingdom,Japan,4
+413,United Kingdom,Netherlands,4
+414,United Kingdom,Russian Federation,3
+415,United Kingdom,Spain,7
+416,United Kingdom,Sweden,2
+417,United Kingdom,Switzerland,5
+418,United Kingdom,United States,31
+419,United States,Australia,19
+420,United States,Canada,15
+421,United States,China,47
+422,United States,Finland,2
+423,United States,France,8
+424,United States,Germany,16
+425,United States,Greece,2
+426,United States,Hong Kong,5
+427,United States,India,4
+428,United States,Italy,16
+429,United States,Japan,11
+430,United States,Netherlands,7
+431,United States,Russian Federation,4
+432,United States,Spain,9
+433,United States,Sweden,4
+434,United States,Switzerland,6
+435,United States,Taiwan,1
+436,United States,United Kingdom,31
+437,Venezuela,France,1
+438,Zimbabwe,United States,1
